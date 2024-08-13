@@ -1,0 +1,16 @@
+body{
+  display: flex;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  padding: 5px;
+}
+
+.container {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+}
